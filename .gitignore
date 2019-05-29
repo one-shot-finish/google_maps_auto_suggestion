@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+src/.DS_Store
+src/suggestions/__pycache__/
+src/suggestions/develop/
+src/suggestions/suggestions/__pycache__/constants.cpython-37.pyc
+src/suggestions/suggestions/__pycache__/tests.cpython-37.pyc
+src/suggestions/suggestions/__pycache__/views.cpython-37.pyc
+src/suggestions/src/
+src/suggestions/suggestions/__pycache__
+src/suggestions_front/yarn.lock
